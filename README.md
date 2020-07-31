@@ -19,12 +19,11 @@ Initial logs will be just  the basic function call logs like below.
 
 After that all  the incomming  messages by the listner start appearing along with  updated dataframe in real time, as shown below in the  demo gif.
 
-Finally all the  Report  Information will be appeared on the  screen as  shown below, in this case report 2 will be empty as start_time and end_time is  out  of runtime range.
-
-![Image of log1](https://github.com/amol3793/vital_sign_monitoring_app/blob/master/docs/report2-empty.png)
-
-
 ![DEMO ](http://g.recordit.co/D2COyLpyc1.gif)
+
+Finally all the  Service out-put  Information will be appeared on the  screen as  shown below, in this case report 2 will be empty as start_time and end_time is  out  of runtime range
+
+![DEMO2 ](http://g.recordit.co/4k0OogH2dP.gif)
 
 
 # DESIGN
