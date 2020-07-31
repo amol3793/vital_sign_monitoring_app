@@ -28,7 +28,7 @@ Finally all the  Report  Information will be appeared on the  screen as  shown b
 
 
 # DESIGN
-![Image of log1](https://github.com/amol3793/vital_sign_monitoring_app/blob/master/docs/design.png)
+![](https://github.com/amol3793/vital_sign_monitoring_app/blob/master/docs/desing.png)
 
 ### Logging ISSUE
 Since the  single app.py starts different many process in  parallel so there is issue  in logging  such as:
