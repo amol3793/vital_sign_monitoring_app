@@ -26,12 +26,24 @@ Finally all the  Service out-put  Information will be appeared on the  screen as
 ![DEMO ](http://g.recordit.co/4k0OogH2dP.gif)
 
 
+### Example 1: Current datetime (say 2020-07-31 01:57:40+00:00) is not in between start_time  and end_time
+So, report 2 will be empty
 
-### Cases: Incase start-time and end-time is out of runnig  duration, report  2 will be  empty like shown below
-![Image of log2](https://github.com/amol3793/vital_sign_monitoring_app/blob/master/docs/report2-empty.png)
+#### INPUT
+```
+ simulator_report_info = {
+        "number_of_simulator": 3,
+        "runtime": 200,  #in sec
+        "simulation_frequency":1, #in sec
+        'report_info': {
+            "report2_tz_str": "Asia/Kolkata",
+            "start_time": "31-07-2020-11:59",
+            "end_time": "31-07-2020-13:00",
+        }
+```
 
-
-
+#### OUTPUT
+![OUTPUT ](http://g.recordit.co/G05XjYWPXo.gif)[http://g.recordit.co/G05XjYWPXo.gif]
 
 
 # DESIGN
