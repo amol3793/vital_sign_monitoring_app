@@ -21,9 +21,17 @@ After that all  the incomming  messages by the listner start appearing along wit
 
 ![DEMO ](http://g.recordit.co/D2COyLpyc1.gif)
 
-Finally all the  Service out-put  Information will be appeared on the  screen as  shown below, in this case report 2 will be empty as start_time and end_time is  out  of runtime range
+Finally all the  Service out-put  Information will be appeared on the  screen as  shown below, 
 
 ![DEMO ](http://g.recordit.co/4k0OogH2dP.gif)
+
+
+
+### Cases: Incase start-time and end-time is out of runnig  duration, report  2 will be  empty like shown below
+![Image of log2](https://github.com/amol3793/vital_sign_monitoring_app/blob/master/docs/report2-empty.png)
+
+
+
 
 
 # DESIGN
